@@ -45,7 +45,7 @@
       },
       [ "secro_charger_tackle", 6 ]
     ],
-    "upgrades": { "half_life": 12, "into_group": "GROUP_CHARGER_UPGRADE" },
+    "upgrades": { "half_life": 48, "into_group": "GROUP_CHARGER_UPGRADE" },
     "death_drops": "default_zombie_death_drops",
     "flags": [
       "SEES",

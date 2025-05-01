@@ -86,7 +86,7 @@
     "melee_dice": 1,
     "melee_dice_sides": 2,
     "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
-    "upgrades": { "age_grow": 6, "half_life": 1, "into": "mon_insect_saddler" },
+    "upgrades": { "age_grow": 6, "half_life": 4, "into": "mon_insect_saddler" },
     "special_attacks": [
       {
         "type": "spell",
@@ -120,7 +120,7 @@
     "melee_dice": 1,
     "melee_dice_sides": 2,
     "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
-    "upgrades": { "age_grow": 6, "half_life": 1, "into": "mon_insect_saddler" },
+    "upgrades": { "age_grow": 6, "half_life": 4, "into": "mon_insect_saddler" },
     "vision_day": 4,
     "flags": [ "SEES", "HEARS", "SMELLS", "NO_BREATHE", "CLIMBS", "BASHES", "POISON", "STUMBLES" ]
   },
@@ -514,4 +514,3 @@
     "flags": [ "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "FILTHY", "GRABS" ]
   }
 ]
-

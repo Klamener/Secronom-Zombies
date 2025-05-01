@@ -26,7 +26,7 @@
     "speed": 95,
     "symbol": "⫰",
     "type": "MONSTER",
-    "upgrades": { "half_life": 12, "into_group": "GROUP_BLADED_UPGRADE" },
+    "upgrades": { "half_life": 48, "into_group": "GROUP_BLADED_UPGRADE" },
     "volume": "62500 ml",
     "weight": "81500 g"
   },

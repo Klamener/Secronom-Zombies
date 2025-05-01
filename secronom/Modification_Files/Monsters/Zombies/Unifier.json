@@ -43,7 +43,7 @@
     ],
     "death_drops": "default_zombie_death_drops",
     "anger_triggers": [ "FRIEND_DIED", "FRIEND_ATTACKED" ],
-    "upgrades": { "half_life": 14, "into": "mon_zombie_unity" },
+    "upgrades": { "half_life": 56, "into": "mon_zombie_unity" },
     "flags": [
       "SEES",
       "HEARS",
@@ -105,7 +105,7 @@
         "monster_message": "<color_yellow>Blood vessels emerge from %1$s's core!</color>"
       }
     ],
-    "upgrades": { "half_life": 20, "into_group": "GROUP_UNIFIER_UPGRADEX" },
+    "upgrades": { "half_life": 80, "into_group": "GROUP_UNIFIER_UPGRADEX" },
     "flags": [
       "SEES",
       "HEARS",
@@ -198,13 +198,13 @@
     "armor": { "bash": 20 },
     "special_attacks": [
       {
-		"id": "monspell_secro_veinstalk_initial",
+        "id": "monspell_secro_veinstalk_initial",
         "type": "spell",
         "spell_data": { "id": "secro_veinstalk_initial" },
         "cooldown": 1,
         "monster_message": "",
-		"condition": { "not": { "u_has_effect": "secro_veinstalk_limit" } },
-		"allow_no_target": true
+        "condition": { "not": { "u_has_effect": "secro_veinstalk_limit" } },
+        "allow_no_target": true
       }
     ],
     "death_function": {
@@ -253,13 +253,13 @@
     "armor": { "bash": 24 },
     "special_attacks": [
       {
-		"id": "monspell_secro_veinstalk_initial",
+        "id": "monspell_secro_veinstalk_initial",
         "type": "spell",
         "spell_data": { "id": "secro_veinstalk_initial" },
         "cooldown": 1,
         "monster_message": "",
-		"condition": { "not": { "u_has_effect": "secro_veinstalk_limit" } },
-		"allow_no_target": true
+        "condition": { "not": { "u_has_effect": "secro_veinstalk_limit" } },
+        "allow_no_target": true
       }
     ],
     "death_function": {

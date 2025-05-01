@@ -38,7 +38,7 @@
       }
     ],
     "death_drops": "SSmutant_drop",
-    "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_KAXIX" },
+    "upgrades": { "half_life": 40, "into_group": "GROUP_BOW_KAXIX" },
     "flags": [ "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
@@ -84,7 +84,7 @@
       }
     ],
     "death_drops": "SSmutant_drop",
-    "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_AXXUROS" },
+    "upgrades": { "half_life": 40, "into_group": "GROUP_BOW_AXXUROS" },
     "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
@@ -131,7 +131,7 @@
       }
     ],
     "death_drops": "SSmutant_drop",
-    "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_EXIOS" },
+    "upgrades": { "half_life": 40, "into_group": "GROUP_BOW_EXIOS" },
     "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
@@ -165,7 +165,7 @@
     "harvest": "zombie",
     "special_attacks": [ [ "SMASH", 30 ] ],
     "death_drops": "SSmutant_drop",
-    "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_DREXX" },
+    "upgrades": { "half_life": 40, "into_group": "GROUP_BOW_DREXX" },
     "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
@@ -214,7 +214,7 @@
       }
     ],
     "death_drops": "SSmutant_drop",
-    "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_EPIXO" },
+    "upgrades": { "half_life": 40, "into_group": "GROUP_BOW_EPIXO" },
     "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {

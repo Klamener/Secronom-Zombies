@@ -44,7 +44,7 @@
       "message": "The %s dies!",
       "effect": { "id": "mon_zombie_grubby_death", "hit_self": true }
     },
-    "upgrades": { "half_life": 10, "into": "mon_zombie_slimy" },
+    "upgrades": { "half_life": 40, "into": "mon_zombie_slimy" },
     "flags": [
       "SEES",
       "HEARS",
@@ -98,7 +98,7 @@
         "description": "The slimy zombie spits globs of tainted goo!"
       }
     ],
-    "upgrades": { "half_life": 12, "into_group": "GROUP_GRUBBY_UPGRADEX" },
+    "upgrades": { "half_life": 48, "into_group": "GROUP_GRUBBY_UPGRADEX" },
     "death_function": {
       "corpse_type": "NO_CORPSE",
       "message": "The %s dies!",

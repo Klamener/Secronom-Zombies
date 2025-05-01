@@ -22,9 +22,9 @@
       { "monster": "mon_zombie_charger", "weight": 25 },
       { "monster": "mon_zombie_scourge", "weight": 25 },
       { "monster": "mon_zombie_grubby", "weight": 20 },
-      { "monster": "mon_zombie_lick", "weight": 10, "starts": "14 days" },
-      { "monster": "mon_zombie_unify", "weight": 10, "starts": "7 days" },
-      { "monster": "mon_zombie_bootlegsmoker", "weight": 5, "starts": "7 days" },
+      { "monster": "mon_zombie_lick", "weight": 10, "starts": "56 days" },
+      { "monster": "mon_zombie_unify", "weight": 10, "starts": "28 days" },
+      { "monster": "mon_zombie_bootlegsmoker", "weight": 5, "starts": "28 days" },
       { "monster": "mon_zombie_bone", "weight": 1 }
     ]
   },

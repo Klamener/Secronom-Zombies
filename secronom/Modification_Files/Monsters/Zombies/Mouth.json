@@ -30,7 +30,7 @@
     "speed": 80,
     "symbol": "<",
     "type": "MONSTER",
-    "upgrades": { "half_life": 12, "into": "mon_zombie_bellymouth" },
+    "upgrades": { "half_life": 48, "into": "mon_zombie_bellymouth" },
     "volume": "62500 ml",
     "weight": "81500 g"
   },
@@ -70,7 +70,7 @@
     "speed": 85,
     "symbol": "⪕",
     "type": "MONSTER",
-    "upgrades": { "half_life": 16, "into_group": "GROUP_MOUTH_UPGRADEX" },
+    "upgrades": { "half_life": 64, "into_group": "GROUP_MOUTH_UPGRADEX" },
     "volume": "62500 ml",
     "weight": "81500 g"
   },

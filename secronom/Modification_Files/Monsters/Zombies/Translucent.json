@@ -25,7 +25,7 @@
     "armor": { "bash": 2, "cut": 1, "heat": 1 },
     "special_attacks": [ [ "ACID_BARF", 30 ] ],
     "death_drops": "default_zombie_death_drops",
-    "upgrades": { "half_life": 14, "into": "mon_zombie_pellucid" },
+    "upgrades": { "half_life": 56, "into": "mon_zombie_pellucid" },
     "anger_triggers": [ "PLAYER_CLOSE" ],
     "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
     "flags": [

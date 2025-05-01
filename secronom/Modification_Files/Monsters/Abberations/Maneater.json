@@ -117,7 +117,7 @@
         "allow_no_target": true
       }
     ],
-    "upgrades": { "half_life": 42, "into": "mon_maneater_evo" },
+    "upgrades": { "half_life": 168, "into": "mon_maneater_evo" },
     "looks_like": "mon_triffid",
     "flags": [
       "HEARS",

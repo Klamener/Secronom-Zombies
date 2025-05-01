@@ -34,7 +34,7 @@
       }
     ],
     "anger_triggers": [ "HURT" ],
-    "upgrades": { "half_life": 30, "into_group": "GROUP_NOX_UPGRADE" },
+    "upgrades": { "half_life": 120, "into_group": "GROUP_NOX_UPGRADE" },
     "flags": [ "CAN_DIG", "HEARS", "GOODHEARING", "WARM" ]
   },
   {
@@ -82,7 +82,7 @@
       }
     ],
     "anger_triggers": [ "HURT" ],
-    "upgrades": { "half_life": 20, "into_group": "GROUP_GRAVEDIGGER_UPGRADEX" },
+    "upgrades": { "half_life": 80, "into_group": "GROUP_GRAVEDIGGER_UPGRADEX" },
     "flags": [ "DIGS", "CAN_DIG", "SEES", "HEARS", "GOODHEARING", "SMELLS", "WARM", "PLASTIC", "BASHES", "DESTROYS" ]
   },
   {

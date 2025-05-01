@@ -67,6 +67,6 @@
     "symbol": "Ƶ",
     "color": "light_green",
     "harvest": "zombie",
-    "upgrades": { "half_life": 3, "into_group": "GROUP_SWARMERSEGWAY_UPGRADE" }
+    "upgrades": { "half_life": 12, "into_group": "GROUP_SWARMERSEGWAY_UPGRADE" }
   }
 ]

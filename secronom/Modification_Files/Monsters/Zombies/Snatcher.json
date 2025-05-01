@@ -47,7 +47,7 @@
         "monster_message": "<color_yellow>The snatcher zombie launches its tongue at %3$s!</color>"
       }
     ],
-    "upgrades": { "half_life": 14, "into": "mon_zombie_bootlegsmoker_mode" },
+    "upgrades": { "half_life": 56, "into": "mon_zombie_bootlegsmoker_mode" },
     "death_drops": "default_zombie_clothes",
     "flags": [
       "SEES",

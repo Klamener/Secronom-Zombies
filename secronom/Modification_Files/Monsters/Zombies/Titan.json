@@ -28,7 +28,7 @@
     "armor": { "bash": 5, "cut": 9, "bullet": 6, "acid": 3, "heat": 5 },
     "special_attacks": [ [ "SMASH", 60 ] ],
     "death_drops": "mon_zombie_hulk_death_drops",
-    "upgrades": { "half_life": 22, "into": "mon_zombie_titan" },
+    "upgrades": { "half_life": 88, "into": "mon_zombie_titan" },
     "flags": [
       "SEES",
       "HEARS",
@@ -81,7 +81,7 @@
       [ "SMASH", 33 ]
     ],
     "death_drops": "mon_zombie_hulk_death_drops",
-    "upgrades": { "half_life": 33, "into": "mon_zombie_blacktitan" },
+    "upgrades": { "half_life": 132, "into": "mon_zombie_blacktitan" },
     "flags": [
       "SEES",
       "HEARS",
