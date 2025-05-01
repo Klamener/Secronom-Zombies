@@ -112,7 +112,7 @@
         {
           "has": "WIELD",
           "condition": "ALWAYS",
-	  "values": [ { "type": "SPEED", "multiply": -0.5 } ],
+	  "values": [ { "value": "SPEED", "multiply": -0.5 } ],
           "incoming_damage_mod": [
             { "type": "bash", "add": -10 },
             { "type": "cut", "add": -10 },
