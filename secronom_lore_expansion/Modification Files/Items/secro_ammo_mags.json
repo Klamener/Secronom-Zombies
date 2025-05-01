@@ -130,12 +130,8 @@
         "rigid": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "light_battery_cell",
-          "light_minus_battery_cell",
-          "light_minus_disposable_cell",
-          "light_disposable_cell"
-        ]
+        "flag_restriction": [ "BATTERY_LIGHT" ],
+        "default_magazine": "secro_power_armor_battery_cell"
       }
     ],
     "looks_like": "battery",
@@ -157,7 +153,7 @@
     "ammo_type": [ "battery" ],
     "capacity": 1000,
     "looks_like": "battery",
-    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "RECHARGE" ],
+    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "RECHARGE", "BATTERY_LIGHT" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 1000 } } ]
   },
   {
