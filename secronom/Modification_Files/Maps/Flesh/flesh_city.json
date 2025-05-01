@@ -1204,7 +1204,6 @@
         "-": "t_secro_wall_w_flesh",
         "7": "t_secro_linoleum_white_flesh",
         "=": "t_secro_wall_g_flesh",
-        "A": "t_secro_atm_flesh",
         "C": "t_secro_floor_flesh",
         "I": "t_secro_door_metal_locked_flesh",
         "L": "t_secro_door_locked_flesh",
@@ -1227,6 +1226,7 @@
         "|": "t_secro_wall_w_flesh"
       },
       "furniture": {
+        "A": "f_secro_atm_flesh",
         "#": "f_counter",
         "7": "f_bookcase",
         "%": "f_secro_console_broken_flesh",
@@ -2069,7 +2069,6 @@
         "5": "t_secro_window_bars_flesh",
         ";": "t_secro_floor_flesh",
         "@": "t_secro_shrub_flesh",
-        "A": "t_secro_atm_flesh",
         "D": "t_secro_door_flesh",
         "L": "t_secro_door_metal_locked_flesh",
         "_": "t_secro_pavement_flesh",
@@ -2079,6 +2078,7 @@
         "4": "t_secro_gutter_downspout_flesh"
       },
       "furniture": {
+        "A": "f_secro_atm_flesh",
         "?": "f_secro_console_broken_flesh",
         "#": "f_counter",
         "a": "f_stool",
@@ -2147,7 +2147,6 @@
         ".": "t_secro_floor_flesh",
         "5": "t_secro_window_bars_flesh",
         "@": "t_secro_shrub_flesh",
-        "A": "t_secro_atm_flesh",
         "C": "t_door_frame",
         "D": "t_door_o",
         "L": "t_secro_door_metal_locked_flesh",
@@ -2160,6 +2159,7 @@
         "4": "t_secro_gutter_downspout_flesh"
       },
       "furniture": {
+        "A": "f_secro_atm_flesh",
         "#": "f_counter",
         "E": "f_desk",
         "S": "f_sink",
