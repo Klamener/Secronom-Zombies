@@ -28,7 +28,7 @@
       "active": true,
       "menu_text": "Activate \"Vessel\" module"
     },
-    "ammo": "battery",
+    "tool_ammo": "battery",
     "relic_data": {
       "passive_effects": [
         {
@@ -82,7 +82,7 @@
       "type": "transform",
       "menu_text": "Deactivate \"Vessel\" module"
     },
-    "ammo": "battery",
+    "tool_ammo": "battery",
     "relic_data": {
       "passive_effects": [
         {
