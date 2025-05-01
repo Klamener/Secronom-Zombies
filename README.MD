@@ -1,4 +1,9 @@
 Attempting to update to current Experimental.
+Now loads without errors for date 2025-04-27 
+
+No Idea if things work properly.
+
+Didn't see nemesis688's fork until almost done, oh well.
 
 # Secronom-Zombies
 **Axema's GREAT and LEGENDARY mod!
