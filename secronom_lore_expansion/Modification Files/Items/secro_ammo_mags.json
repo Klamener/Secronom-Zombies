@@ -132,10 +132,7 @@
         "max_contains_weight": "20 kg",
         "item_restriction": [
           "light_battery_cell",
-          "light_plus_battery_cell",
           "light_minus_battery_cell",
-          "light_atomic_battery_cell",
-          "light_minus_atomic_battery_cell",
           "light_minus_disposable_cell",
           "light_disposable_cell"
         ]
@@ -147,7 +144,7 @@
   {
     "id": "secro_power_armor_battery_cell",
     "type": "MAGAZINE",
-    "category": "spare_parts",
+    "category": "tool_magazine",
     "name": { "str": "SP experimental battery", "str_pl": "SP experimental batteries" },
     "description": "A light, but high-capacity battery cell, for use with certain power armor modules.",
     "weight": "600 g",
@@ -166,7 +163,7 @@
   {
     "id": "secro_fleshmech_battery",
     "type": "MAGAZINE",
-    "category": "spare_parts",
+    "category": "tool_magazine",
     "name": { "str": "overcharged lump of flesh" },
     "description": "This large lump of organic material stores incredibly high amount of energy produced by an artificial flesh core. Mainly used to power up a certain mech suit.",
     "weight": "42000 g",
