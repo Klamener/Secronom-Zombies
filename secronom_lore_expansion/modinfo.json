@@ -4,9 +4,9 @@
     "id": "secronom_lore_expansion",
     "name": "<color_light_red>Secronom+ Lore Expansion</color>",
     "authors": [ "Axema Vales", "SzQ" ],
-    "maintainers": [ "Kenan" ],
+    "maintainers": [ "Erin105" ],
     "description": "<color_cyan>An expansion mod for secronom. (WIP)</color>",
-    "version": "<color_light_green>Update 05/21/2023</color>",
+    "version": "<color_light_green>Update 04/27/2025</color>",
     "category": "content",
     "dependencies": [ "dda", "secronom" ]
   }
