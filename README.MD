@@ -6,8 +6,6 @@ Branch loads without errors for build 2025-04-27-1433
 
 No Idea if things work properly.
 
-Didn't see nemesis688's fork until almost done, oh well.
-
 # Secronom-Zombies
 **Axema's GREAT and LEGENDARY mod!
 
