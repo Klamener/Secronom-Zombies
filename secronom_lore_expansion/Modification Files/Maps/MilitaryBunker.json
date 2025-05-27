@@ -2,7 +2,6 @@
   {
     "//": "Vanilla bunker, but fleshy. We don't use the 'box-y' mapgen.",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_bunker_flesh" ],
     "object": {
       "rows": [
@@ -72,7 +71,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_bunker_basement_flesh" ],
     "weight": 250,
     "object": {
@@ -169,7 +167,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_bunker_basement_flesh" ],
     "weight": 500,
     "object": {
@@ -263,7 +260,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_bunker_basement_fvvault_flesh" ],
     "weight": 250,
     "object": {
