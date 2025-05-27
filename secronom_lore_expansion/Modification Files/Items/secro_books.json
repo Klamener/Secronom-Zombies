@@ -1,7 +1,8 @@
 [
   {
     "id": "secro_recipe_flesh",
-    "type": "BOOK",
+    "type": "ITEM",
+    "subtypes": [ "BOOK" ],
     "name": {
       "str": "Secronom Project \"Flesh\": Research Results",
       "str_pl": "copies of Secronom Project \"Flesh\": Research Results"
@@ -24,7 +25,8 @@
   },
   {
     "id": "secro_recipe_flesh_field",
-    "type": "BOOK",
+    "type": "ITEM",
+    "subtypes": [ "BOOK" ],
     "name": {
       "str": "Secronom Project \"Flesh\": Field Research",
       "str_pl": "copies of Secronom Project \"Flesh\": Field Research"

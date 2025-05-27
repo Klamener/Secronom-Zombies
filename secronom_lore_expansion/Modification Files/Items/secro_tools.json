@@ -22,7 +22,8 @@
     ],
     "qualities": [ [ "SECRO_FINFUSE", 1 ] ],
     "symbol": "o",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "volume": "550 ml",
     "weight": "275 g"
   }
