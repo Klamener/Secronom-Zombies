@@ -172,7 +172,6 @@
   {
     "//": "Mil surplus",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 150,
     "object": {
@@ -230,7 +229,6 @@
   {
     "//": "Mil surplus",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 150,
     "object": {
@@ -289,7 +287,6 @@
   },
   {
     "//": "Mil surplus",
-    "method": "json",
     "om_terrain": "s_shop_flesh",
     "type": "mapgen",
     "weight": 150,
@@ -370,7 +367,6 @@
   {
     "//": "Gym",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 500,
     "object": {
@@ -442,7 +438,6 @@
   {
     "//": "Gym",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 500,
     "object": {
@@ -522,7 +517,6 @@
   {
     "//": "Doctor's Office",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 200,
     "object": {
@@ -585,7 +579,6 @@
   {
     "//": "Doctor's Office",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 200,
     "object": {
@@ -639,7 +632,6 @@
   {
     "//": "Doctor's Office",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 200,
     "object": {
@@ -726,7 +718,6 @@
   {
     "//": "Pharmacy",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 300,
     "object": {
@@ -808,7 +799,6 @@
   {
     "//": "Pharmacy",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 300,
     "object": {
@@ -899,7 +889,6 @@
   {
     "//": "Butcher Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 350,
     "object": {
@@ -993,7 +982,6 @@
   {
     "//": "Butcher Shop",
     "type": "mapgen",
-    "method": "json",
     "weight": 350,
     "om_terrain": [ "s_shop_flesh" ],
     "object": {
@@ -1084,7 +1072,6 @@
   {
     "//": "Butcher Shop",
     "type": "mapgen",
-    "method": "json",
     "weight": 350,
     "om_terrain": [ "s_shop_flesh" ],
     "object": {
@@ -1166,7 +1153,6 @@
   {
     "//": "Grocery Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 750,
     "object": {
@@ -1295,7 +1281,6 @@
   {
     "//": "Grocery Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 750,
     "object": {
@@ -1370,7 +1355,6 @@
   {
     "//": "Hardware Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 375,
     "object": {
@@ -1448,7 +1432,6 @@
   {
     "//": "Hardware Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 375,
     "object": {
@@ -1551,7 +1534,6 @@
   {
     "//": "Hardware Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 375,
     "object": {
@@ -1638,7 +1620,6 @@
   {
     "//": "Hardware Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 375,
     "object": {
@@ -1729,7 +1710,6 @@
   {
     "//": "Electronics Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 325,
     "object": {
@@ -1834,7 +1814,6 @@
   {
     "//": "Electronics Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 325,
     "object": {
@@ -1920,7 +1899,6 @@
   {
     "//": "Gun Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 125,
     "object": {
@@ -2034,7 +2012,6 @@
   {
     "//": "Gun Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 125,
     "object": {
@@ -2113,7 +2090,6 @@
   {
     "//": "Gun Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 125,
     "object": {
@@ -2208,7 +2184,6 @@
   },
   {
     "//": "Gun Shop",
-    "method": "json",
     "om_terrain": "s_shop_flesh",
     "type": "mapgen",
     "weight": 125,
@@ -2302,7 +2277,6 @@
   {
     "//": "Liquor Shop",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_shop_flesh" ],
     "weight": 525,
     "object": {
@@ -2382,7 +2356,6 @@
   {
     "//": "Church",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_park_flesh" ],
     "weight": 500,
     "object": {
@@ -2445,7 +2418,6 @@
   {
     "//": "Church",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_park_flesh" ],
     "weight": 500,
     "object": {
@@ -2524,7 +2496,6 @@
   {
     "//": "house mapgens of 4 to 19 from vanilla.",
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -2653,7 +2624,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -2764,7 +2734,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -2887,7 +2856,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -3011,7 +2979,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -3117,7 +3084,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -3233,7 +3199,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -3343,7 +3308,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -3454,7 +3418,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -3575,7 +3538,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -3701,7 +3663,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -3832,7 +3793,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -3965,7 +3925,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -4083,7 +4042,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 200,
     "object": {
@@ -4203,7 +4161,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -4340,7 +4297,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "s_house_flesh" ],
     "weight": 300,
     "object": {
@@ -4463,7 +4419,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_rd_updown_flesh" ],
     "weight": 100,
     "object": {
@@ -4513,7 +4468,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_rd_leftright_flesh" ],
     "weight": 100,
     "object": {
@@ -4563,7 +4517,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_rd_4d_flesh" ],
     "weight": 100,
     "object": {
@@ -4613,7 +4566,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "secro_flesh_city_core" ],
     "weight": 100,
     "object": {
