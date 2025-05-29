@@ -1,6 +1,4 @@
-Attempting to update to current Experimental.
-
-Currently targeting 2025-05-27-1230
+Currently playing on build 2025-05-27-0430.
 
 Branch loads without errors for build 2025-04-27-1433
 
