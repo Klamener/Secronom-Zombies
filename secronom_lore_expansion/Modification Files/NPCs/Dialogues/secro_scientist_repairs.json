@@ -70,7 +70,7 @@
   {
     "type": "talk_topic",
     "id": "TALK_SECRO_SCIENTIST_repair_laserturret_needs",
-    "dynamic_line": "To repair the SDP-L1 turret, I need the following resources:\n\n4 chunks of low carbon steel\n18 scrap metals\n9 electronic scraps\n9 power converters\n5 copper wires\n\nIt takes more than an hour to complete the process.",
+    "dynamic_line": "To repair the SDP-L1 turret, I need the following resources:\n\n4 chunks of mild steel\n18 scrap metals\n9 electronic scraps\n9 power converters\n5 copper wires\n\nIt takes more than an hour to complete the process.",
     "responses": [
       {
         "text": "[REPAIR]",
