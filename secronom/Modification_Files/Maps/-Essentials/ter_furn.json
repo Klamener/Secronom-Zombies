@@ -121,7 +121,7 @@
       "sound_fail": "clang!",
       "ter_set": "t_ladder_down",
       "items": [
-        { "item": "steel_chunk", "count": [ 1, 4 ] },
+        { "item": "lc_steel_chunk", "count": [ 1, 4 ] },
         { "item": "scrap", "count": [ 3, 12 ] },
         { "item": "hinge", "count": [ 1, 2 ] }
       ]
@@ -147,7 +147,7 @@
       "sound_fail": "clang!",
       "ter_set": "t_ladder_down",
       "items": [
-        { "item": "steel_chunk", "count": [ 1, 4 ] },
+        { "item": "lc_steel_chunk", "count": [ 1, 4 ] },
         { "item": "scrap", "count": [ 3, 12 ] },
         { "item": "hinge", "count": [ 1, 2 ] }
       ]
